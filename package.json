@@ -1,0 +1,14 @@
+{
+  "name": "cloud-banner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matheusgrigoletto/cloud-banner.git",
+  "author": "Matheus B. Grigoletto <matheus.grigoletto@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node-sass --watch scss -o css"
+  },
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
